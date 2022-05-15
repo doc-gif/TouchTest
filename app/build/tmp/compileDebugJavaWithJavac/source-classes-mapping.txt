@@ -1,0 +1,46 @@
+com/example/touchtest/databinding/ActivityResultShowBinding.java
+ com.example.touchtest.databinding.ActivityResultShowBinding
+com/example/touchtest/databinding/ActivityMainBinding.java
+ com.example.touchtest.databinding.ActivityMainBinding
+com/example/touchtest/databinding/ActivityResultBinding.java
+ com.example.touchtest.databinding.ActivityResultBinding
+io/realm/com_example_touchtest_AlphaDataRealmProxyInterface.java
+ io.realm.com_example_touchtest_AlphaDataRealmProxyInterface
+io/realm/com_example_touchtest_SettingRealmProxy.java
+ io.realm.com_example_touchtest_SettingRealmProxy
+ io.realm.com_example_touchtest_SettingRealmProxy$ClassNameHelper
+ io.realm.com_example_touchtest_SettingRealmProxy$SettingColumnInfo
+com/example/touchtest/BuildConfig.java
+ com.example.touchtest.BuildConfig
+io/realm/DefaultRealmModule.java
+ io.realm.DefaultRealmModule
+com/example/touchtest/databinding/FragmentTestBinding.java
+ com.example.touchtest.databinding.FragmentTestBinding
+io/realm/DefaultRealmModuleMediator.java
+ io.realm.DefaultRealmModuleMediator
+io/realm/com_example_touchtest_AlphaDataRealmProxy.java
+ io.realm.com_example_touchtest_AlphaDataRealmProxy
+ io.realm.com_example_touchtest_AlphaDataRealmProxy$AlphaDataColumnInfo
+ io.realm.com_example_touchtest_AlphaDataRealmProxy$ClassNameHelper
+io/realm/com_example_touchtest_SettingRealmProxyInterface.java
+ io.realm.com_example_touchtest_SettingRealmProxyInterface
+io/realm/com_example_touchtest_NumListRealmProxy.java
+ io.realm.com_example_touchtest_NumListRealmProxy
+ io.realm.com_example_touchtest_NumListRealmProxy$ClassNameHelper
+ io.realm.com_example_touchtest_NumListRealmProxy$NumListColumnInfo
+io/realm/com_example_touchtest_AnsweredNumListRealmProxyInterface.java
+ io.realm.com_example_touchtest_AnsweredNumListRealmProxyInterface
+com/example/touchtest/databinding/RecyclerviewItemBinding.java
+ com.example.touchtest.databinding.RecyclerviewItemBinding
+io/realm/com_example_touchtest_NumListRealmProxyInterface.java
+ io.realm.com_example_touchtest_NumListRealmProxyInterface
+com/example/touchtest/databinding/ActivitySelectBinding.java
+ com.example.touchtest.databinding.ActivitySelectBinding
+com/example/touchtest/databinding/ActivityTestScreenBinding.java
+ com.example.touchtest.databinding.ActivityTestScreenBinding
+com/example/touchtest/databinding/FragmentCommentaryBinding.java
+ com.example.touchtest.databinding.FragmentCommentaryBinding
+io/realm/com_example_touchtest_AnsweredNumListRealmProxy.java
+ io.realm.com_example_touchtest_AnsweredNumListRealmProxy
+ io.realm.com_example_touchtest_AnsweredNumListRealmProxy$AnsweredNumListColumnInfo
+ io.realm.com_example_touchtest_AnsweredNumListRealmProxy$ClassNameHelper

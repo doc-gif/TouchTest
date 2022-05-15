@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kind_array">
+        <item>漢文 句法</item>
+        <item>漢文 漢字</item>
+        <item>漢文 ならでは語</item>
+        <item>古文単語</item>
+    </string-array>
+</resources>
